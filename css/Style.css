@@ -1,0 +1,47 @@
+h4 {
+    color: blue;
+    font-size: 100px;
+}
+h3 
+{
+    color:aqua;
+    font-size: 100px;
+}
+h1 {
+    /*
+    para definir un color tengo una paleta 140 colores: blue; yellos
+    color:blueviolet;
+    hexadecimal: 
+    formo un color con 6 digito: 
+    0-9 A-F
+    #FFFFFF #000000; Blanco y negro
+    -------------------------------------
+    RGB es una funcion que recibe 3 parametros
+    rgb (valor1, valor, valor2)red, green, blue
+    0-255
+    rgb(255,0,0)red
+    rgb(0,0,255)blue
+    -------------------------------------
+    rgba (nivel de opacidad)
+    rgba(0,0,255, 0.318)
+    */
+    color: #c2000036;
+
+}
+p
+{
+    color: red;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 80px;
+    background-color: blueviolet;
+}
+/*selector de clase*/
+.NombreDeClase{
+    color: chartreuse;
+    font-size: 30px;
+}
+
+#NombreId{
+    color: yellow;
+}

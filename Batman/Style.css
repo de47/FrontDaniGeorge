@@ -1,0 +1,40 @@
+h1{
+    box-align: center;
+    color: #005677; 
+    text-align: center;
+    background: #C4C4C4;
+}
+.{
+    background-color: red;
+}
+footer{
+    background-color: #005677;
+    text-align: center;
+    color: #FFFFFF;
+    ;
+}
+h2{
+    color:#005677;
+    background-color: #C4C4C4;;
+}
+gris{
+    text-align: center;  
+    background: #C4C4C4;
+}
+.Sin{
+    list-style-type: none;
+}
+span{
+    font-weight: bold;
+}
+.gris{
+    background-color: #E6E6E6 ;
+}
+.img1{
+    height: 146.3690948486328px;
+    width: 100px;
+    left: 670px;
+    top: 20.90985107421875px;
+    border-radius: 0px;
+}
+
