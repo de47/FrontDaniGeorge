@@ -1,0 +1,42 @@
+.Primero{
+    background-color: #222222;
+    color: aliceblue
+    
+}
+.Segundo{
+    background-color: #F0A83E;
+    
+}
+.Central{
+    background-image:  url('../imagenes/Comedero.png');
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+
+}
+.Cafe{
+    color: #3C2313;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+footer{
+    color: #FFFF;
+    background-color: #222222;
+}
+.Previo{
+    background-color:rgb(0,255,0);
+}
+.suscribete{
+    background-color: #F0A83E;
+    color: #FFFF;
+}
+.Bolitas{
+
+}

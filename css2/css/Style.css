@@ -1,0 +1,20 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.contenedor{
+    background-color: blue;
+    background-image: url("../img/lemon-pie\ 1.png");
+    background-repeat: repeat-y;
+}
+.contenedor-cuatro
+{
+    /*
+    background-color: ;
+    background-image: ;
+    background-repeat: ;
+    */
+    background: salmon url(../img/lemon-pie\ 1.png);
+}
+ /*
+    Importar una fuente de google
+    */

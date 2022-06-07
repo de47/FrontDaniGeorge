@@ -1,0 +1,39 @@
+.SegundoHeader{
+    margin: 0;
+    background-color: #00669F;
+}
+header{
+
+    background-color: #1CD1B0;
+    margin: 0;
+
+}
+footer{
+    background-color: #00669F;
+    color: #FFF9F9;
+
+
+}
+.texto{
+    text-align: center;
+    background-color:#F3F3F3;
+    ;
+}
+
+.conjunto{
+    display: flex;
+
+}
+.corazon{
+    position: absolute;
+
+    margin-top: 1.5%;
+
+}
+.foto{
+    position: absolute;
+    margin-top: 10%;
+
+    padding-left: 8px;
+    border-radius: 16px;
+}
