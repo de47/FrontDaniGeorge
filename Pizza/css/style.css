@@ -1,0 +1,24 @@
+/*.logo{
+    background: url(/imagenes/Logo.png);
+}
+.repartidor{
+    background-image: url('imagenes/delivery.jpg');
+}
+.imagenPizza{
+    background-image: url(/imagenes/PizzaFalling.jpg);
+}*/
+*{
+    
+}
+.linea{
+    display: inline-block;
+}
+
+footer{
+    background-color: #222222;
+    color: white;
+}
+header{
+    background-color: #222222;
+    color: white;
+}
