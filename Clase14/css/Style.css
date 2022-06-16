@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.SegundoHeader{
+ 
+    background-color: #00669F;
+    height: 70px;
+    position: absolute;
+    width: 100%;
+    
+}
+header{
+
+    background-color:  #D1891C;
+    margin: 0;
+    height: 30px;
+
+}
+footer{
+    background-color: #00669F;
+    color: #FFF9F9;
+    position: relative;
+    margin-top: 130px;
+
+}
+.texto{
+    text-align: center;
+    background-color:#F3F3F3;
+    margin-top: 65px;
+    
+    
+}
+.corazon{
+    position: absolute;
+    margin-top: 1.5%;
+    margin-left: 10px;
+
+}
+.foto{
+    position: absolute;
+    width: 120px;
+    height: 118px;
+    left: 90px;
+    top: 130px;
+    border-radius: 50%;
+}
+.foto2{
+    position: absolute;
+    width: 120px;
+    height: 118px;
+    left: 100px;
+    top: 130px;
+    border-radius: 50%;
+}
+.foto3{
+    position: absolute;
+    width: 120px;
+    height: 118px;
+    left: 670px;
+    top: 250px;
+    border-radius: 50%;
+}
+.titulo{
+
+    font-weight: bold;
+    text-align: center;
+    top: 60px;
+    position: relative;
+    background-color:#F3F3F3;
+
+
+}
+.fondo{
+    Width: 300px;
+    Height: 193px;
+
+}
+
+
+.Tarjeta1{
+    height: 336px; /*Alto*/
+    width: 300px; /*Ancho*/
+    border-radius: 0px;
+    margin: 0px 30px;
+    background-color: #F3F3F3;
+}
+.conjunto{
+    margin-top: 100px;
+
+    display: flex;
+
+
+}
+button{
+    position: relative;
+    width: 128.78px;
+   height: 48.52px;
+   left: 100px;
+    top: 10px;
+    background-color: #00669F;
+    border: 0;
+    color: white;
+}
+
+
+.TituloTexto{
+    background-color: #F3F3F3;
+    height: 250px;
+ 
+}
+
+.contenedor-imagenes{
+    position: relative;
+}
+body{
+    position: relative;
+}
+h2{
+    margin: 20px;
+    color: white;
+}
+.imgFooter{
+    width: 40px;
+    height: 40px;
+    di
+}
